@@ -1,0 +1,11 @@
+# Ignorar carpetas y archivos de Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Ignorar la carpeta de compilación de Maven
+/target/
+
+# Ignorar archivos temporales de sistema o IDEs genéricos
+*.log
+*.tmp
